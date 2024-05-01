@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-### About Me 🙋‍♂️
+## About Me 🙋‍♂️
 I'm Malcolm Abbott, a trilingual web developer passionate about crafting interactive user interfaces using the PERN stack.
 
 Constantly seeking new challenges, I'm on a mission to build more robust web applications while expanding my skill set.
