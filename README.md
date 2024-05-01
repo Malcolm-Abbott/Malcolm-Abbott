@@ -13,8 +13,11 @@ Beyond coding, you'll find me pounding the pavement, training for my next big ru
 
 ## Technical Skills 💻
 📚 Stack - PostgreSQL, Express.js, React.js, Node.js, TypeScript, JavaScript, HTML5, CSS3
+
 🛠 Tools - Git, GitHub, VSCode, Slack, WebStorm, PyCharm, AWS, Tailwind CSS, npm
+
 📝 Currently Studying - Python
+
 ☕ Very eager to continue learning more languages!
 
 ## Let's Connect! 📭
