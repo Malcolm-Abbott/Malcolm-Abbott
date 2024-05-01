@@ -13,6 +13,7 @@ Beyond coding, you'll find me pounding the pavement, training for my next big ru
 
 ## Let's Connect! 📭
 * [LinkedIn](https://www.linkedin.com/in/malcolmabbott/)
+* [Resume](https://docs.google.com/document/d/1i0LbKzGPxPXhCO-CSZ6iQSL4kC2rClm1szqCyEx_-LA/edit?usp=sharing)
 
 
 <!--
