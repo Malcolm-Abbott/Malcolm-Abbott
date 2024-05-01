@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there! 👋
+
+### About Me 🙋‍♂️
+I'm Malcolm Abbott, a trilingual web developer passionate about crafting interactive user interfaces using the PERN stack.
+Constantly seeking new challenges, I'm on a mission to build more robust web applications while expanding my skill set.
+Beyond coding, you'll find me pounding the pavement, training for my next big running challenge—an ultra marathon 🏃‍♂️.
+
 
 <!--
 **Malcolm-Abbott/Malcolm-Abbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
