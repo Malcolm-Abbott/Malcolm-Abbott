@@ -7,6 +7,9 @@ Constantly seeking new challenges, I'm on a mission to build more robust web app
 
 Beyond coding, you'll find me pounding the pavement, training for my next big running challenge—an ultra marathon 🏃‍♂️.
 
+## Fun Facts ⚡
+* I lived in Sao Paulo, Brazil for 2 years and 4 months, in Santiago de Chile, Chile for 2 years, and in Bogota, Colombia for 2 years.
+
 
 <!--
 **Malcolm-Abbott/Malcolm-Abbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
