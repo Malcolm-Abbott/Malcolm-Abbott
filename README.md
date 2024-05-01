@@ -12,7 +12,7 @@ Beyond coding, you'll find me pounding the pavement, training for my next big ru
 * I also spent some time coaching Pickleball
 
 ## Let's Connect! 📭
-* [LinkedIn](www.linkedin.com/in/malcolmabbott)
+* [LinkedIn](https://www.linkedin.com/in/malcolmabbott/)
 
 
 <!--
